@@ -1,0 +1,17 @@
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\bin\Debug\netcoreapp2.2\FizzBuzzNUnitTest.deps.json
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\bin\Debug\netcoreapp2.2\FizzBuzzNUnitTest.runtimeconfig.json
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\bin\Debug\netcoreapp2.2\FizzBuzzNUnitTest.runtimeconfig.dev.json
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\bin\Debug\netcoreapp2.2\FizzBuzzNUnitTest.dll
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\bin\Debug\netcoreapp2.2\FizzBuzzNUnitTest.pdb
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\obj\Debug\netcoreapp2.2\FizzBuzzNUnitTest.csprojAssemblyReference.cache
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\obj\Debug\netcoreapp2.2\FizzBuzzNUnitTest.csproj.CoreCompileInputs.cache
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\obj\Debug\netcoreapp2.2\FizzBuzzNUnitTest.AssemblyInfoInputs.cache
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\obj\Debug\netcoreapp2.2\FizzBuzzNUnitTest.AssemblyInfo.cs
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\obj\Debug\netcoreapp2.2\FizzBuzzNUnitTest.dll
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\obj\Debug\netcoreapp2.2\FizzBuzzNUnitTest.pdb
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\bin\Debug\netcoreapp2.2\FizzBuzzCS.dll
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\bin\Debug\netcoreapp2.2\FizzBuzzCS.pdb
+D:\Repository\C#\FizzBuzzCS\FizzBuzzNUnitTest\obj\Debug\netcoreapp2.2\FizzBuzzNUnitTest.csproj.CopyComplete
